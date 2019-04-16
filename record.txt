@@ -1,5 +1,6 @@
 Hello,
 this is my first experience to Git,
 I hope to have a happy, meaningful and learning experience!
+git push in local environment
 
 see you next time
